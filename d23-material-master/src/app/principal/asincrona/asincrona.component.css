@@ -1,0 +1,4 @@
+.operaciones,.contenedore{
+    display: flex;
+    flex-direction: column;
+}
